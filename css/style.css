@@ -1,0 +1,10 @@
+
+html{
+  scroll-padding-top: 50px;
+}
+
+body::before {
+  content: "";
+  display: block;
+  height: 54px;
+}
